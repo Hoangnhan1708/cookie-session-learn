@@ -1,0 +1,24 @@
+{
+  "name": "cookies-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hoangnhan1708/cookies-session-learn.git"
+  },
+  "author": "hoangnhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoangnhan1708/cookies-session-learn/issues"
+  },
+  "homepage": "https://github.com/Hoangnhan1708/cookies-session-learn#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
